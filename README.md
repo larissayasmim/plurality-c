@@ -17,6 +17,10 @@
 <br>
 <br>
 
+## :memo: &nbsp;&nbsp; Brief
+<p>This program simulates an election in which the candidate with the most votes is the winner. In the command line <br>must be placed the name of the candidates (maximum 9). Then the user is asked the number of votes to be counted.<br> Finally, the program will print as a result the name of the most voted candidate and the number of votes he received.<br> In the event of a tie, it prints the names of both.</p>
+<br>
+
 ## :gem: &nbsp;&nbsp; Features
 - Prints the most voted candidate and number of votes received
 - Get the name of the candidates on the command line
